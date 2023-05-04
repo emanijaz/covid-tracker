@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin-top: 3%;
+    flex-direction: column;
+}
+
+.toggleButtons{
+    /* align-items: right !important; */
+    /* background-color: lightslategray; */
+    margin-bottom: 2%;
+    margin-top: 0;
+    height: 5%;
+}
